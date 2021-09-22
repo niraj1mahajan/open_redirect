@@ -1,2 +1,2 @@
-# open_redirect
-Open Redirect Payloads
+# Open Redirect Payloads
+Try your luck, you may get 301.
